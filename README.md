@@ -1,4 +1,4 @@
-def fibonacci_sum(n):
+def fibonacci_sum():
     a, b = 0, 1
     total = 0
     for _ in range(n):
